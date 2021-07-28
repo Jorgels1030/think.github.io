@@ -1,0 +1,2 @@
+(self.webpackChunkinspire_jlpa=self.webpackChunkinspire_jlpa||[]).push([[883],{9616:function(e,t,n){"use strict";n.r(t);var l=n(7294),a=n(5397),r=n(3751);t.default=function(){return l.createElement(a.Z,null,l.createElement(r.Z,{title:"404: Not found"}),l.createElement("h1",null,"No encontrado"),l.createElement("p",null,"Esta ruta no existe... la tristesa."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-80ea83ac4b1f1b6710ff.js.map
